@@ -1,6 +1,6 @@
 import t from './aufgabe1.mjs'
 
-describe('PubSub', () => {
+describe('PubSub std', () => {
     const log = console.log;
 
     beforeEach(() => {

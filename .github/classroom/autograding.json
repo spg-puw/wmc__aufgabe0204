@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Aufgabe1/T1",
+      "setup": "npm install",
+      "run": "npm test -- -t 'PubSub std main'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Aufgabe1/T2",
+      "setup": "npm install",
+      "run": "npm test -- -t 'PubSub std unsubscribe'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Aufgabe2/T1",
+      "setup": "npm install",
+      "run": "npm test -- -t 'PubSub with event type main'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Aufgabe2/T2",
+      "setup": "npm install",
+      "run": "npm test -- -t 'PubSub with event type unsubscribe'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
