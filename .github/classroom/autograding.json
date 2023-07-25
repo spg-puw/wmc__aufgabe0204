@@ -8,7 +8,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 1,
-      "points": 1
+      "points": 4
     },
     {
       "name": "Aufgabe1/T2",
@@ -18,7 +18,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 1,
-      "points": 1
+      "points": 4
     },
     {
       "name": "Aufgabe2/T1",
@@ -28,7 +28,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 1,
-      "points": 1
+      "points": 4
     },
     {
       "name": "Aufgabe2/T2",
@@ -38,7 +38,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 1,
-      "points": 1
+      "points": 4
     }
   ]
 }
