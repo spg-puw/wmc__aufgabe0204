@@ -1,16 +1,17 @@
-export function messageBus() {
+function messageBus() {
     /* Your implementation */
     
 }
 
-export function subscriber1(data) {
+function subscriber1(data) {
     console.log(`Subscriber1 received ${data}`);
 }
-export function subscriber2(data) {
+
+function subscriber2(data) {
     console.log(`Subscriber2 received ${data}`);
 }
 
-export function main() {
+function main() {
     const bus = messageBus();
     bus.subscribe(subscriber1);
     const id = bus.subscribe(subscriber2);
