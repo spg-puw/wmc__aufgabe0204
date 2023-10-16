@@ -1,6 +1,6 @@
 # Aufgabe - Publish/Subscribe
 
-Die folgenden Aufgaben wurde aus dem [Repository von Koll. Schletz](https://github.com/schletz/Wmc/blob/main/31_JavaScript/40_FunctionsCallback.md#%C3%BCbung-1-das-publishsubscribe-pattern) übernommen und um Tests ergänzt.
+Aufgabe by [PUW](https://github.com/spg-puw/). Die folgenden Aufgaben wurde aus dem [Repository von Koll. Schletz](https://github.com/schletz/Wmc/blob/main/31_JavaScript/40_FunctionsCallback.md#%C3%BCbung-1-das-publishsubscribe-pattern) übernommen und um Tests ergänzt.
 
 Durch den Umstand, Funktionen auch in einem Array speichern zu können, kann ein Publish/Subscribe
 Pattern leicht implementiert werden. Komponenten können durch eine Subscribe Methode eine Callback
